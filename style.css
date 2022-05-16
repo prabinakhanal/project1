@@ -111,8 +111,8 @@ color:rgb(158, 157, 157);
    }
 .form-control{
     border: 0px;
-   padding-top: 35px;
-   padding-bottom: 20px;
+    padding-top: 35px;
+    padding-bottom: 10px;
 
 }
 .row3{
@@ -120,7 +120,7 @@ color:rgb(158, 157, 157);
 }
 
 .row3 .icon{
-    padding-left:20px;
+    padding-left:250px;
 }
 .heading h2{
     color:#0d1537;
